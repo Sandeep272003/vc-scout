@@ -11,7 +11,6 @@ import {
   ListItem
 } from '../lib/lists'
 import { parseCSVFile, parseJSONFile, normalizeWebsite } from '../lib/imports'
-import '../styles/globals.css'
 import Link from 'next/link'
 
 export default function ListsPage() {
